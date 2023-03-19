@@ -36,7 +36,7 @@ However, there are certain programming languages which I still don't understand 
 - I also never really learned how to use the AI languages including: LISP/PROLOG/LOGO(though, I have done some very elementary LOGO programming before). 
 
 - In addition to which I will admit...there are, quite literally, 100's and 100's of programming languages which I still have tried using, yet;  
-including, Angular/React/RUST/Go/Erlang/Smalltalk/FORTRAN/Scheme/-etc.
+including, the *older* languages: Smalltalk/FORTRAN/Scheme; and, even, *newer* languages: Angular/React/SVelte/RUST/Go/Erlang/-etc.  
 
 ## Linux Installation  
 
