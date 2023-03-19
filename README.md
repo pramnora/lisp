@@ -3,14 +3,14 @@ Lisp programming code
 
 ## Introduction
 
-The creator of the LISP-LIS-Processing programming language is: John McCarthy...;   
-he was also the person who coined the term: Artificial Intelligence.  
+- The original creator of the LISP/LIS-Processing programming language is: John McCarthy...;   
+he was also the first person who coined the term: Artificial Intelligence.  
 
-LISP, is a *high level* programming language which was created in 1958. (Only FORTRAN is 1 year older.)  
+- LISP, is a *high level* programming language which was created in 1958. (Only FORTRAN is 1 year older.)  
 
-It is created to be used for AI-Artificial Intellence purposes.  (Other AI languages are: PROLOG/LOGO/-etc.)    
+- It is created to be used for AI-Artificial Intellence purposes.  (Other AI languages are: PROLOG/LOGO/-etc.)    
 
-Notably, LISP makes extensive use of pairs of brackets: () to go around its code.   
+- Notably, LISP makes extensive use of pairs of brackets: () to go around its code.   
 
 There are many different variations of LISP...
 
