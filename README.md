@@ -7,8 +7,10 @@ Lisp programming code
 
 - Notably, LISP makes extensive use of pairs of brackets: () to go around its code.   
 
-- The original creator of the LISP/LIS-Processing programming language is: John McCarthy...;   
-he was also the first person who coined the term: Artificial Intelligence.  
+- The original creator of the LISP/LISt-Processing programming language is: John McCarthy...;   
+he was also the first person who coined the term: Artificial Intelligence.   
+
+(The story goes that his book entitled: Automata Studies didn't manage to generate much interest; but, when he later renamed it: Artificial Intelligence; then, both academic circles/and, also, the general public became hugely interested.)  
 
 - It is created to be used for AI-Artificial Intellence purposes.  (Other AI languages are: PROLOG/LOGO/-etc.)    
 
