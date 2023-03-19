@@ -7,6 +7,16 @@ On Linux Ubuntu type...
 
 > apt install clisp    
 
+In order to run CLISP type:  
+
+> clisp  
+
+...and, the CLISP REPL-Read Eval Print Loop should appear...ready for typing in/and, executing CLISP commands.  
+
+In order to exit CLISP type:   
+
+> (exit)  
+
 ## CLISP code example  
 
 ### Example 1  
