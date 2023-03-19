@@ -62,4 +62,12 @@ In order to exit CLISP type:
 Wikipedia  
 - https://en.wikipedia.org/wiki/Lisp_(programming_language)  
 
+-----  
 
+John McCarthy (inventor of LISP programming language)  
+- https://www.cnet.com/tech/tech-industry/john-mccarthy-creator-of-lisp-programming-language-dies/  
+
+RECURSIVE FUNCTIONS OF SYMBOLIC EXPRESSIONS AND THEIR COMPUTATION BY MACHINE (Part I)  
+- http://www-formal.stanford.edu/jmc/recursive.html  
+
+-----  
