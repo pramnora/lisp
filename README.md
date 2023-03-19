@@ -91,4 +91,7 @@ John McCarthy (inventor of LISP programming language)
 RECURSIVE FUNCTIONS OF SYMBOLIC EXPRESSIONS AND THEIR COMPUTATION BY MACHINE (Part I)  
 - http://www-formal.stanford.edu/jmc/recursive.html  
 
+Additional Materials  
+- https://amturing.acm.org/info/mccarthy_0239596.cfm#add_1  
+ 
 -----  
