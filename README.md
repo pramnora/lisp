@@ -1,6 +1,20 @@
 # LISP 
 Lisp programming code  
 
+## Introduction
+
+LISP, is a *high level* programming language which was created in 1958. (Only FORTRAN is 1 year older.)  
+
+It is created AI-Artificial Intellence purposes.  (Other AI languages are: PROLOG/LOGO/-etc.)    
+
+There are many different variations of LISP...
+
+- LISP  
+- CLISP  
+- Common LISP   
+- Scheme  
+- etc.  
+
 ## Linux Installation  
 
 On Linux Ubuntu type...  
