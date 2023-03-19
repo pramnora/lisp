@@ -13,6 +13,7 @@ There are many different variations of LISP...
 
 - LISP  
 - CLISP  
+- GNU LISP  
 - Common LISP   
 - Scheme  
 - etc.  
@@ -28,6 +29,10 @@ In order to run CLISP type:
 > clisp  
 
 ...and, the CLISP REPL-Read Eval Print Loop should appear...ready for typing in/and, executing CLISP commands.  
+
+In order to get help type:  
+
+> :h
 
 In order to exit CLISP type:   
 
