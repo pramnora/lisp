@@ -5,7 +5,9 @@ Lisp programming code
 
 LISP, is a *high level* programming language which was created in 1958. (Only FORTRAN is 1 year older.)  
 
-It is created AI-Artificial Intellence purposes.  (Other AI languages are: PROLOG/LOGO/-etc.)    
+It is created to be used for AI-Artificial Intellence purposes.  (Other AI languages are: PROLOG/LOGO/-etc.)    
+
+Notably, LISP makes extensive use of pairs of brackets: () to go around its code.   
 
 There are many different variations of LISP...
 
