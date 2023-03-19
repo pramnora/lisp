@@ -23,17 +23,20 @@ There are many different variations of LISP...
 
 ## My own personal interest in learning how to use LISP  
 
-First, I started off by learning to use BASIC/Beginner's All purpose Symbollic Instruction Code. 
+- First, I started off by learning to use BASIC/Beginner's All purpose Symbollic Instruction Code. 
 
-Next, I moved on to learning to use Pascal...which is a far more 'technical' language than was the much simpler BASIC. 
+- Next, I moved on to learning to use Pascal...which is a far more 'technical' language than was the much simpler BASIC. 
+
+- After than I learned to use some: HTML/CSS/Javascript.  
 
 However, there are certain programming languages which I still don't understand how to use, yet...?  
 
-Amongst these programming languages are, namely: C/C++...; both very highly 'technical' languages;    
-and, I also never really learned how to use the AI languages including: LISP/PROLOG/LOGO(though, I have done some very elementary LOGO programming before). 
+- Amongst these programming languages are, namely: C/C++...; both very highly 'technical' languages.  
+  
+- I also never really learned how to use the AI languages including: LISP/PROLOG/LOGO(though, I have done some very elementary LOGO programming before). 
 
-In addition to which I will admit...there are, quite literally, 100's and 100's of programming languages which I still have tried using, yet;  
-including, Angular/React/RUST/Go/Erlang/-etc.
+- In addition to which I will admit...there are, quite literally, 100's and 100's of programming languages which I still have tried using, yet;  
+including, Angular/React/RUST/Go/Erlang/Smalltalk/FORTRAN/Scheme/-etc.
 
 ## Linux Installation  
 
