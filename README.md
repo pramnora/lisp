@@ -16,6 +16,8 @@ he was also the first person who coined the term: Artificial Intelligence.
 
 - It's said that John McCarthy's students created the first computer program to pay chess, convincingly.  
 
+## LISP programming language variations
+
 There are many different variations of LISP...
 
 - LISP  
