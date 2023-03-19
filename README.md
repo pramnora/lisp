@@ -25,7 +25,7 @@ There are many different variations of LISP...
 
 - First, I started off by learning to use BASIC/Beginner's All purpose Symbollic Instruction Code. 
 
-- Later, I studied using more of the BASIC family: QBASIC/VBScript/Visual BASIC 6.0.    
+- Later, I studied using more of the BASIC family: QBASIC/QB64/VBScript/Visual BASIC 6.0.    
 
 - Next, I moved on to learning to use, Pascal...which is a far more 'technical' language than was the much simpler and straight forwards, BASIC. 
 
