@@ -3,6 +3,9 @@ Lisp programming code
 
 ## Introduction
 
+The creator of the LISP-LIS-Processing programming language is: John McCarthy...;   
+he was also the person who coined the term: Artificial Intelligence.  
+
 LISP, is a *high level* programming language which was created in 1958. (Only FORTRAN is 1 year older.)  
 
 It is created to be used for AI-Artificial Intellence purposes.  (Other AI languages are: PROLOG/LOGO/-etc.)    
