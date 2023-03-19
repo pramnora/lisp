@@ -25,7 +25,9 @@ There are many different variations of LISP...
 
 - First, I started off by learning to use BASIC/Beginner's All purpose Symbollic Instruction Code. 
 
-- Next, I moved on to learning to use Pascal...which is a far more 'technical' language than was the much simpler BASIC. 
+- Later, I studied using more of the BASIC family: QBASIC/VBScript/Visual BASIC 6.0.    
+
+- Next, I moved on to learning to use, Pascal...which is a far more 'technical' language than was the much simpler and straight forwards, BASIC. 
 
 - After than I learned to use some: HTML/CSS/Javascript.  
 
@@ -33,10 +35,12 @@ However, there are certain programming languages which I still don't understand 
 
 - Amongst these programming languages are, namely: C/C++...; both very highly 'technical' languages.  
   
-- I also never really learned how to use the AI languages including: LISP/PROLOG/LOGO(though, I have done some very elementary LOGO programming before). 
+- I also never really learned how to use the AI-Artificial Intelligence languages including: LISP/PROLOG/LOGO(though, I have done some very elementary LOGO programming before). 
 
 - In addition to which I will admit...there are, quite literally, 100's and 100's of programming languages which I still have tried using, yet;  
-including, the *older* languages: Smalltalk/FORTRAN/Scheme; and, even, *newer* languages: Angular/React/SVelte/RUST/Go/Erlang/-etc.  
+including, the *older* languages: Smalltalk/FORTRAN/COBOL/-etc.; and, even, *newer* languages: Angular/React/SVelte/RUST/Go/Erlang/-etc.  
+
+- Also, as I hardly ever worked on Mac OS before...; therefore, I really don't know such languages as, Swift/-etc.  
 
 ## Linux Installation  
 
