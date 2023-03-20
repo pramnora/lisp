@@ -24,10 +24,10 @@ There are many different variations of LISP...
 - Common LISP   
 - GNU LISP  
 - LISP  
-- NIL(New Implementation of Lisp)
+- NIL(New Implementation of Lisp)  
 - Scheme  
-- MacLisp
-- ZetaLisp
+- MacLisp  
+- ZetaLisp  
 - etc.  
 
 ### Lisp filename extension
