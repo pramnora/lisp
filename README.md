@@ -62,11 +62,13 @@ In order to exit CLISP type:
 
 ### Example 1  
 
+> ;; add 2 numbers  
 > (+ 1 2)  
 > 3
 
 ### Example 2  
 
+> ;; add multiple numbers  
 > (+ 1 2 3 4 5 6 7 8 9 10)  
 > 55  
 
