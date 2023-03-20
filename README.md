@@ -20,12 +20,19 @@ he was also the first person who coined the term: Artificial Intelligence.
 
 There are many different variations of LISP...
 
-- LISP  
 - CLISP  
-- GNU LISP  
 - Common LISP   
+- GNU LISP  
+- LISP  
+- NIL(New Implementation of Lisp)
 - Scheme  
+- MacLisp
+- ZetaLisp
 - etc.  
+
+### Lisp filename extension
+
+The file name extension use for Lisp programs is: .lisp
 
 ## Linux Installation  
 
