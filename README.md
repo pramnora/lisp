@@ -1,7 +1,7 @@
 # LISP 
 Lisp programming code  
 
-**Document last updated**: *Mon 2nd Jun 2025 02:42 AM GMT*  
+**Document last updated**: *Mon 2nd Jun 2025 12:06 PM GMT*  
 
 -----
 
@@ -118,7 +118,10 @@ SourceForge.net
 ## Lisp tutorials
 
 TutorialsPoint...  
-- https://www.tutorialspoint.com/lisp/lisp_overview.htm  
+- https://www.tutorialspoint.com/lisp/lisp_overview.htm
+
+Lisp Tutorial / (Channel: Derek Banas)  
+- https://www.youtube.com/watch?v=ymSq4wHrqyU  
 
 -----
 
