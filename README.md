@@ -148,5 +148,8 @@ Why You Should Learn Lisp In 2025 / (Channel: Gavin Freeborn)
 LISP: Lex Fridman's favorite programming language  
 - https://www.youtube.com/watch?v=cMMiaCtOzV0  
 
+Lisp: A language for stratified design / (Channel: Eric Normand)    
+- https://www.youtube.com/watch?v=GbZpTHg0KfQ  
+
    
   
