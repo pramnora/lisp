@@ -3,6 +3,8 @@ Lisp programming code
 
 **Document last updated**: *Mon 2nd Jun 2025 02:42 AM GMT*  
 
+-----
+
 ## Introduction
 
 - LISP, is a *high level* programming language which was created in 1958. (Only FORTRAN is 1 year older.)   
@@ -18,6 +20,8 @@ he was also the first person who coined the term: Artificial Intelligence.
 
 - It's said that John McCarthy's students created the first computer program to pay chess, convincingly.  
 
+-----
+
 ## LISP programming language variations
 
 There are many different variations of LISP...
@@ -32,9 +36,13 @@ There are many different variations of LISP...
 - ZetaLisp  
 - etc.  
 
+-----
+
 ### Lisp filename extension
 
 The file name extension use for Lisp programs is: .lisp
+
+-----
 
 ## Linux Installation  
 
@@ -55,6 +63,9 @@ In order to get help type:
 In order to exit CLISP type:   
 
 > (exit)  
+
+-----
+
 
 ## CLISP code example  
 
@@ -101,10 +112,14 @@ Additional Materials
 SourceForge.net  
 - https://sourceforge.net/projects/clisp/files/latest/download  
 
+-----
+
 ## Lisp tutorials
 
 TutorialsPoint...  
 - https://www.tutorialspoint.com/lisp/lisp_overview.htm  
+
+-----
 
 ## YouTube Videos  
 
