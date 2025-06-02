@@ -128,7 +128,10 @@ What's the point of LISP? / (Channel: mccormix)
 - https://www.youtube.com/watch?v=txcD-drmaFs
 
 The History of Lisp and Early Artificial Intelligence / (Channel: cryoCode)    
-- https://www.youtube.com/watch?v=G3FDnNZF5uA  
+- https://www.youtube.com/watch?v=G3FDnNZF5uA
+
+The LISP programming language / (Channel: Melbourne Creators Collective)  
+- https://www.youtube.com/watch?v=C3epoerj-GI  
 
 The Rise & Fall of LISP - Too Good For The Rest Of the World / (Channel: Gavin Freeborn)  
 - https://www.youtube.com/watch?v=GVyoCh2chEs  
