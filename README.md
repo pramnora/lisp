@@ -145,5 +145,8 @@ Why Lisp Is One Of The Most Productive Programming Languages / (Channel: Gavin F
 Why You Should Learn Lisp In 2025 / (Channel: Gavin Freeborn)  
 - https://www.youtube.com/watch?v=GWdf1flcLoM  
 
+LISP: Lex Fridman's favorite programming language  
+- https://www.youtube.com/watch?v=cMMiaCtOzV0  
+
    
   
