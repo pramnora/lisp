@@ -132,5 +132,9 @@ The Rise & Fall of LISP - Too Good For The Rest Of the World / (Channel: Gavin F
 
 Why Lisp Is One Of The Most Productive Programming Languages / (Channel: Gavin Freeborn)  
 - https://www.youtube.com/watch?v=AfY_zGR_QBI  
+
+Why You Should Learn Lisp In 2025 / (Channel: Gavin Freeborn)  
+- https://www.youtube.com/watch?v=GWdf1flcLoM  
+
    
   
