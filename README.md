@@ -126,4 +126,8 @@ TutorialsPoint...
 
 What's the point of LISP? / (Channel: mccormix)  
 - https://www.youtube.com/watch?v=txcD-drmaFs
+
+Why Lisp Is One Of The Most Productive Programming Languages / (Channel: Gavin Freeborn)  
+- https://www.youtube.com/watch?v=AfY_zGR_QBI  
+   
   
