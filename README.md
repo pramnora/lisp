@@ -103,3 +103,9 @@ SourceForge.net
 
 TutorialsPoint...  
 - https://www.tutorialspoint.com/lisp/lisp_overview.htm  
+
+## YouTube Videos  
+
+What's the point of LISP? / (Channel: mccormix)  
+- https://www.youtube.com/watch?v=txcD-drmaFs
+  
