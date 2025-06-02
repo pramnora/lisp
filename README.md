@@ -127,6 +127,9 @@ TutorialsPoint...
 What's the point of LISP? / (Channel: mccormix)  
 - https://www.youtube.com/watch?v=txcD-drmaFs
 
+The History of Lisp and Early Artificial Intelligence / (Channel: cryoCode)    
+- https://www.youtube.com/watch?v=G3FDnNZF5uA  
+
 The Rise & Fall of LISP - Too Good For The Rest Of the World / (Channel: Gavin Freeborn)  
 - https://www.youtube.com/watch?v=GVyoCh2chEs  
 
