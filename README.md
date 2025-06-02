@@ -127,6 +127,9 @@ TutorialsPoint...
 What's the point of LISP? / (Channel: mccormix)  
 - https://www.youtube.com/watch?v=txcD-drmaFs
 
+The Rise & Fall of LISP - Too Good For The Rest Of the World / (Channel: Gavin Freeborn)  
+- https://www.youtube.com/watch?v=GVyoCh2chEs  
+
 Why Lisp Is One Of The Most Productive Programming Languages / (Channel: Gavin Freeborn)  
 - https://www.youtube.com/watch?v=AfY_zGR_QBI  
    
