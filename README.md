@@ -1,6 +1,8 @@
 # LISP 
 Lisp programming code  
 
+**Document last updated**: *Mon 2nd Jun 2025 02:42 AM GMT*  
+
 ## Introduction
 
 - LISP, is a *high level* programming language which was created in 1958. (Only FORTRAN is 1 year older.)   
